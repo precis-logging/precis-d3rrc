@@ -1,0 +1,28 @@
+{
+  "name": "precis-d3rrc",
+  "version": "0.0.1",
+  "description": "D3RRC charting for Precis UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Darling <jeremy.darling@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3rrc": "^1.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:precis-logging/precis-d3rrc.git"
+  },
+  "keywords": [
+    "Precis",
+    "D3RRC",
+    "Charting"
+  ],
+  "bugs": {
+    "url": "https://github.com/precis-logging/precis-d3rrc/issues"
+  },
+  "homepage": "https://github.com/precis-logging/precis-d3rrc"
+}
