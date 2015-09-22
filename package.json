@@ -9,7 +9,7 @@
   "author": "Jeremy Darling <jeremy.darling@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "d3rrc": "^1.0.4"
+    "d3rrc": "^1.0.7"
   },
   "devDependencies": {},
   "repository": {
